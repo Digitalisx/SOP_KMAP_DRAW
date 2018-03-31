@@ -25,17 +25,17 @@ Karnaugh maps are used to simplify real-world logic requirements so that they ca
 
 ### 1-Variable Karnaugh Map
 
-![1.JPG]({{site.baseurl}}/1.JPG)
+![1.JPG](/1.JPG)
 
 ### 2-Variable Karnaugh Map
 
-![2.JPG]({{site.baseurl}}/2.JPG)
+![2.JPG](/2.JPG)
 
 ### 3-Variable Karnaugh Map
 
-![3.JPG]({{site.baseurl}}/3.JPG)
+![3.JPG](/3.JPG)
 
 ### 4-Variable Karnaugh Map
 
-![4.JPG]({{site.baseurl}}/4.JPG)
+![4.JPG](/4.JPG)
 
